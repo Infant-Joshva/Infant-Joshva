@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Data Science from GUVI**
 - 💬 Ask me about **Python, SQL, Pandas, SciPy, NumPy, Matplotlib, Seaborn, Plotly, Scikit Learn, Streamlit**
-- 📫 How to reach me **infantjoshva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,10 +26,10 @@
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/> </a> 
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/plotly-logo-6E5A45F434-seeklogo.com.png" alt="plotly" width="40" height="40"/> </a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://images.prismic.io/plotly-marketing-website-2/8f977c91-7b4e-4367-8228-26fbba2506e4_69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-sm.png?auto=compress%2Cformat&fit=max&w=128" alt="plotly" width="90" height="60"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="80"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
@@ -83,3 +82,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infant-joshva&show_icons=true&locale=en" alt="infant-joshva" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Infant-Joshva&" alt="infant-joshva" /></p>
+
+[![Infant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Infant-Joshva&bg_color=000000&color=ffffff&line=4dff4d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
