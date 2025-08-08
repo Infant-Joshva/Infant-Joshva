@@ -36,8 +36,7 @@
 
 ## 🚀 Projects
 
-📌 **Note:** Each project folder contains detailed instructions in its own README file.
----
+> 📌 **Note:** Each project folder contains detailed instructions in its own README file. 
 
 ### 1️⃣ Secure Check
 
@@ -47,7 +46,9 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 
-📂 **GitHub Repo:** [Secure Check](https://github.com/Infant-Joshva/Mini-Project-1-Secure-Check-.git)
+📂 **Github:** 👇
+
+[![Repo](https://img.shields.io/badge/Repo-Secure%20Check-orange?style=plastic&logo=github)](https://github.com/Infant-Joshva/Mini-Project-1-Secure-Check-.git)
 
 ---
 
@@ -59,7 +60,9 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
-📂 **GitHub Repo:** [Agri Data Explorer](https://github.com/Infant-Joshva/Mini_project_2-Agri-Data-Explorer.git)
+📂 **Github:** 👇
+
+[![Repo](https://img.shields.io/badge/Repo-Agri%20Data%20Explorer-orange?style=plastic&logo=github)](https://github.com/Infant-Joshva/Mini_project_2-Agri-Data-Explorer.git)
 
 ---
 
