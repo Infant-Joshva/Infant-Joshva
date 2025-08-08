@@ -38,10 +38,8 @@
 
 ## 🚀 Projects
 
----
-
 📌 **Note:** Each project folder contains detailed instructions in its own README file.
---
+---
 
 ### 1️⃣ Secure Check
 
