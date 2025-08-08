@@ -20,10 +20,13 @@ Currently upskilling in **Data Engineering concepts** as well.
 
 ## 🛠️ Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,numpy,scipy,sklearn,html,css,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,sklearn,html,css,vscode&theme=dark)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="40" title="NumPy"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" width="40" title="SciPy"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40" title="Pandas"/>
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" title="Streamlit"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="40" title="Power BI"/>
+
 
 ---
 
@@ -31,41 +34,35 @@ Currently upskilling in **Data Engineering concepts** as well.
 
 ### 🔹 [SecureCheck](#)
 **A Python-SQL Digital Ledger for Police Post**  
-- **Tech:** [![My Skills](https://skillicons.dev/icons?i=python,postgres&theme=dark)](https://skillicons.dev)  
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="25" title="Pandas"/>  
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="25" title="Streamlit"/>  
+- **Tech:** [![My Skills](https://skillicons.dev/icons?i=python,postgres&theme=dark)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="25" title="Pandas"/> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="25" title="Streamlit"/>  
 - Digital record-keeping for police data with secure access & analytics.  
 
 ---
 
 ### 🔹 [AgriData Explorer](#)
 **Agricultural Data Analysis & Dashboard**  
-- **Tech:** [![My Skills](https://skillicons.dev/icons?i=python,postgres,scipy&theme=dark)](https://skillicons.dev)  
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="25" title="Pandas"/>  
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="25" title="Streamlit"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="25" title="Power BI"/>  
+- **Tech:** [![My Skills](https://skillicons.dev/icons?i=python,postgres&theme=dark)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" width="25" title="SciPy"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="25" title="Pandas"/> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="25" title="Streamlit"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="25" title="Power BI"/>  
 - Interactive data exploration with Power BI dashboard integration.  
 
 ---
 
 ### 🔹 [Employee Attrition Analysis & Prediction](#)
 **Machine Learning Model for Attrition Prediction**  
-- **Tech:** [![My Skills](https://skillicons.dev/icons?i=python,postgres,sklearn&theme=dark)](https://skillicons.dev)  
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="25" title="Pandas"/>  
+- **Tech:** [![My Skills](https://skillicons.dev/icons?i=python,postgres,sklearn&theme=dark)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="25" title="Pandas"/>  
 - Predictive analytics to identify factors influencing employee turnover.  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Infant-Joshva&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Infant-Joshva&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Infant-Joshva&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/infant-joshva)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infantjoshva46@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOURMAIL@example.com)
 
 ---
