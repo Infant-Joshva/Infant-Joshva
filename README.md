@@ -1,71 +1,98 @@
-<!-- 🎯 Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p1ZDJwaGxncGw5d2d2ZXA4bzZ2dWl5MXpoaGRjaG5za2h6Y3dteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
-</p>
-
-<!-- 📝 Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Infant+Joshva+👋;Aspiring+for+Data+Roles;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+into+Insights)](https://git.io/typing-svg)
+![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <h1 align="center">Hi 👋, I'm Infant Joshva</h1>
-<h3 align="center">Aspiring for Data Roles | Python | SQL | Machine Learning</h3>
+<h3 align="center">A passionate Data Scientist</h3>
+
+<img align="right" alt="Coding" width="400" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=infant-joshva&label=Profile%20views&color=0e75b6&style=flat" alt="infant-joshva" /> </p>
+
+- 🌱 I’m currently learning **Data Science from GUVI**
+- 💬 Ask me about **Python, SQL, Pandas, SciPy, NumPy, Matplotlib, Seaborn, Plotly, Scikit Learn, Streamlit**
+- 📫 How to reach me **infantjoshva@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/infant joshva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="infant joshva" height="30" width="40" /></a>
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/> </a> 
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/plotly-logo-6E5A45F434-seeklogo.com.png" alt="plotly" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+</p>
+
 
 ---
 
-## 🚀 About Me  
-I'm a passionate learner exploring the **Data Science & Analytics** world — turning raw data into meaningful insights.  
-I enjoy working with data, building dashboards, and deploying interactive apps.  
-Currently upskilling in **Data Engineering concepts** as well.
+## 🚀 Projects
+
+### 1️⃣ Secure Check
+
+🔍 A Python-SQL digital ledger for police post data management and secure record-keeping.  
+
+**Description:**  
+A Python-based face recognition attendance system using Streamlit as the front-end and PostgreSQL for backend database storage. 
+
+**Key Features:**  
+- Store and query traffic stop data using PostgreSQL
+- 20+ SQL queries (simple to advanced)
+- Interactive dashboard with dropdown filters
+- Minimal, responsive web UI with Streamlit
+  
+**Tech Stack:**  
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+
+📂 **GitHub Repo:** [Secure Check](https://github.com/Infant-Joshva/Mini-Project-1-Secure-Check-.git)
 
 ---
 
-## 🛠️ Tech Stack  
+### 2️⃣ Agri Data Explorer
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,numpy,scipy,sklearn,html,css,vscode&theme=dark)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40" title="Pandas"/>
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" title="Streamlit"/>
-<img src="https://raw.githubusercontent.com/JoshuaMulliken/powerbi-icons/main/powerbi.png" width="40" title="Power BI"/>
+🌾 Agricultural data analysis platform with integrated Power BI dashboards.  
 
+**Description:**  
+An agricultural data analysis project with EDA and interactive dashboards for insights into crop production, yield trends, and area analysis.  
 
----
+**Key Features:**  
+- Data cleaning & EDA using pandas, plotly  
+- SQL queries for data aggregation  
+- Interactive dashboards in Streamlit and Power BI
+- State-wise & year-wise production insights
+  
+**Tech Stack:**  
 
-## 📂 Projects  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
-### 🔹 [SecureCheck](#)
-**A Python-SQL Digital Ledger for Police Post**  
-- **Tech:** [![My Skills](https://skillicons.dev/icons?i=python,postgres&theme=dark)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="25" title="Pandas"/> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="25" title="Streamlit"/>  
-- Digital record-keeping for police data with secure access & analytics.  
-
----
-
-### 🔹 [AgriData Explorer](#)
-**Agricultural Data Analysis & Dashboard**  
-- **Tech:** [![My Skills](https://skillicons.dev/icons?i=python,postgres&theme=dark)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" width="25" title="SciPy"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="25" title="Pandas"/> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="25" title="Streamlit"/> <img src="https://raw.githubusercontent.com/JoshuaMulliken/powerbi-icons/main/powerbi.png" width="40" title="Power BI">  
-- Interactive data exploration with Power BI dashboard integration.  
+📂 **GitHub Repo:** [Agri Data Explorer](https://github.com/Infant-Joshva/Mini_project_2-Agri-Data-Explorer.git)
 
 ---
 
-### 🔹 [Employee Attrition Analysis & Prediction](#)
-**Machine Learning Model for Attrition Prediction**  
-- **Tech:** [![My Skills](https://skillicons.dev/icons?i=python,postgres,sklearn&theme=dark)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="25" title="Pandas"/>  
-- Predictive analytics to identify factors influencing employee turnover.  
+### 3️⃣ Employee Attrition Analysis and Prediction
+
+👨‍💼 Machine learning model to predict employee turnover based on HR data.  
+
+**Tech Stack:**  
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 
 ---
 
-## 📊 GitHub Stats  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infant-joshva&show_icons=true&locale=en&layout=compact" alt="infant-joshva" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infant-joshva&show_icons=true&locale=en" alt="infant-joshva" /></p>
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Infant-Joshva&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOURMAIL@example.com)
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Infant-Joshva&" alt="infant-joshva" /></p>
