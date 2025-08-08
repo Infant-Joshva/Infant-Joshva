@@ -1,9 +1,3 @@
-<!-- 🎯 Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p1ZDJwaGxncGw5d2d2ZXA4bzZ2dWl5MXpoaGRjaG5za2h6Y3dteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
-</p>
-
-<!-- 📝 Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Infant+Joshva+👋;Aspiring+for+Data+Roles;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Infant Joshva</h1>
