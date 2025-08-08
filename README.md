@@ -39,18 +39,14 @@
 
 ## 🚀 Projects
 
+---
+
+📌 **Note:** Each project folder contains detailed instructions in its own README file.
+--
+
 ### 1️⃣ Secure Check
 
-🔍 A Python-SQL digital ledger for police post data management and secure record-keeping.  
-
-**Description:**  
-A Python-based face recognition attendance system using Streamlit as the front-end and PostgreSQL for backend database storage. 
-
-**Key Features:**  
-- Store and query traffic stop data using PostgreSQL
-- 20+ SQL queries (simple to advanced)
-- Interactive dashboard with dropdown filters
-- Minimal, responsive web UI with Streamlit
+🔍 A Python-SQL digital ledger for police post data management.  
   
 **Tech Stack:**  
 
@@ -63,15 +59,6 @@ A Python-based face recognition attendance system using Streamlit as the front-e
 ### 2️⃣ Agri Data Explorer
 
 🌾 Agricultural data analysis platform with integrated Power BI dashboards.  
-
-**Description:**  
-An agricultural data analysis project with EDA and interactive dashboards for insights into crop production, yield trends, and area analysis.  
-
-**Key Features:**  
-- Data cleaning & EDA using pandas, plotly  
-- SQL queries for data aggregation  
-- Interactive dashboards in Streamlit and Power BI
-- State-wise & year-wise production insights
   
 **Tech Stack:**  
 
