@@ -20,12 +20,10 @@ Currently upskilling in **Data Engineering concepts** as well.
 
 ## 🛠️ Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,sklearn,html,css,vscode&theme=dark)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="40" title="NumPy"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" width="40" title="SciPy"/>
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,numpy,scipy,sklearn,html,css,vscode&theme=dark)](https://skillicons.dev)
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40" title="Pandas"/>
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" title="Streamlit"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="40" title="Power BI"/>
+<img src="https://raw.githubusercontent.com/JoshuaMulliken/powerbi-icons/main/powerbi.png" width="40" title="Power BI"/>
 
 
 ---
@@ -41,7 +39,7 @@ Currently upskilling in **Data Engineering concepts** as well.
 
 ### 🔹 [AgriData Explorer](#)
 **Agricultural Data Analysis & Dashboard**  
-- **Tech:** [![My Skills](https://skillicons.dev/icons?i=python,postgres&theme=dark)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" width="25" title="SciPy"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="25" title="Pandas"/> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="25" title="Streamlit"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="25" title="Power BI"/>  
+- **Tech:** [![My Skills](https://skillicons.dev/icons?i=python,postgres&theme=dark)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" width="25" title="SciPy"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="25" title="Pandas"/> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="25" title="Streamlit"/> <img src="https://raw.githubusercontent.com/JoshuaMulliken/powerbi-icons/main/powerbi.png" width="40" title="Power BI">  
 - Interactive data exploration with Power BI dashboard integration.  
 
 ---
