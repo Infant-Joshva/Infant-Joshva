@@ -58,7 +58,7 @@ I enjoy working with data, building dashboards, and deploying interactive apps.
 
 [![Repo](https://img.shields.io/badge/Repo-Secure%20Check-orange?style=plastic&logo=github)](https://github.com/Infant-Joshva/Mini-Project-1-Secure-Check-.git)
 
----
+<h1></h1>
 
 ### 2️⃣ Agri Data Explorer
 
@@ -72,7 +72,7 @@ I enjoy working with data, building dashboards, and deploying interactive apps.
 
 [![Repo](https://img.shields.io/badge/Repo-Agri%20Data%20Explorer-orange?style=plastic&logo=github)](https://github.com/Infant-Joshva/Mini_project_2-Agri-Data-Explorer.git)
 
----
+<h1></h1>
 
 ### 3️⃣ Employee Attrition Analysis and Prediction
 
@@ -81,6 +81,10 @@ I enjoy working with data, building dashboards, and deploying interactive apps.
 **Tech Stack:**  
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+
+📂 **Github:** 👇
+
+[![Repo](https://img.shields.io/badge/Repo-Agri%20Data%20Explorer-orange?style=plastic&logo=github)]()
 
 ---
 
