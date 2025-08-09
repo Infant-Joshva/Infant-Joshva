@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Infant Joshva</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-<img align="right" alt="Coding" width="400" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
+<img align="right" alt="Coding" width="350" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infant-joshva&label=Profile%20views&color=0e75b6&style=flat" alt="infant-joshva" /> </p>
 
