@@ -11,7 +11,7 @@
 I'm a passionate learner exploring the **Data Science & Analytics** world — turning raw data into meaningful insights.  
 I enjoy working with data, building dashboards, and deploying interactive apps. 
 
----
+<h1></h1>
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
