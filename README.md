@@ -7,12 +7,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infant-joshva&label=Profile%20views&color=0e75b6&style=flat" alt="infant-joshva" /> </p>
 
-- 🌱 I’m currently learning **Data Science from GUVI**
-- 💬 Ask me about **Python, SQL, Pandas, SciPy, NumPy, Matplotlib, Seaborn, Plotly, Scikit Learn, Streamlit**
+## 🚀 About Me  
+I'm a passionate learner exploring the **Data Science & Analytics** world — turning raw data into meaningful insights.  
+I enjoy working with data, building dashboards, and deploying interactive apps. 
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">Contacts:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/infant-joshva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="infant joshva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/infant-joshva" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="infant joshva" height="30" width="40" />
+</a>
+<a href="mailto:infantjoshva@example.com" target="_blank">
+  <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1"/>
+</a>
 </p>
 
 
@@ -27,7 +35,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://images.prismic.io/plotly-marketing-website-2/8f977c91-7b4e-4367-8228-26fbba2506e4_69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-sm.png?auto=compress%2Cformat&fit=max&w=128" alt="plotly" width="90" height="60"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="80"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
 
