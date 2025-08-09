@@ -84,7 +84,7 @@ I enjoy working with data, building dashboards, and deploying interactive apps.
 
 📂 **Github:** 👇
 
-[![Repo](https://img.shields.io/badge/Repo-Agri%20Data%20Explorer-orange?style=plastic&logo=github)]()
+[![Repo](https://img.shields.io/badge/Repo-Agri%20Data%20Explorer-orange?style=plastic&logo=github)](https://github.com/Infant-Joshva/Project_3-Employee_Attrition_ML_Model.git)
 
 ---
 
