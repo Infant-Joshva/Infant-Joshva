@@ -76,7 +76,7 @@ I enjoy working with data, building dashboards, and deploying interactive apps.
 
 ### 3️⃣ Employee Attrition Analysis and Prediction
 
-👨‍💼 Machine learning model to predict employee relieving based on HR data.  
+👨‍💼 Machine learning model to predict employee turnover based on HR data.  
 
 **Tech Stack:**  
 
