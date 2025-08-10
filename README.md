@@ -76,7 +76,7 @@ I enjoy working with data, building dashboards, and deploying interactive apps.
 
 ### 3️⃣ Employee Attrition Analysis and Prediction
 
-👨‍💼 Machine learning model to predict employee turnover based on HR data.  
+👨‍💼 Machine learning model to predict employee releaving based on HR data.  
 
 **Tech Stack:**  
 
@@ -84,7 +84,7 @@ I enjoy working with data, building dashboards, and deploying interactive apps.
 
 📂 **Github:** 👇
 
-[![Repo](https://img.shields.io/badge/Repo-Agri%20Data%20Explorer-orange?style=plastic&logo=github)](https://github.com/Infant-Joshva/Project_3-Employee_Attrition_ML_Model.git)
+[![Repo](https://img.shields.io/badge/Repo-Employee%20Attrition%20ML%20Model-orange?style=plastic&logo=github)](https://github.com/Infant-Joshva/Project_3-Employee_Attrition_ML_Model.git)
 
 ---
 
