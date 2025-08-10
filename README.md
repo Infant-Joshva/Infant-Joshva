@@ -18,7 +18,7 @@ I enjoy working with data, building dashboards, and deploying interactive apps.
 <a href="https://www.linkedin.com/in/infant-joshva" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="infant joshva" height="30" width="40" />
 </a>
-<a href="mailto:infantjoshva@example.com" target="_blank">
+<a href="mailto:infantjoshva2024@gmail.com" target="_blank">
   <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1"/>
 </a>
 </p>
