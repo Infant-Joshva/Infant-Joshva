@@ -83,7 +83,7 @@ I'm a passionate learner exploring the **Data Science & Analytics** world turnin
 
 📂 **Github:** 👇
 
-[![Repo](https://img.shields.io/badge/Repo-Employee%20Attrition%20ML%20Model-orange?style=plastic&logo=github)](https://github.com/Infant-Joshva/Project_3-Employee_Attrition_ML_Model.git)
+[![Repo](https://img.shields.io/badge/Repo-Employee%20Attrition%20ML%20Model-orange?style=plastic&logo=github)](https://github.com/Infant-Joshva/Project_3-Employee_Attrition_Analysis_and_Prediction.git)
 
 ---
 
