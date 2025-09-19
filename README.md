@@ -85,6 +85,21 @@ I'm a passionate learner exploring the **Data Science & Analytics** world turnin
 
 [![Repo](https://img.shields.io/badge/Repo-Employee%20Attrition%20ML%20Model-orange?style=plastic&logo=github)](https://github.com/Infant-Joshva/Project_3-Employee_Attrition_Analysis_and_Prediction.git)
 
+<h1></h1>
+
+### 4️⃣ Multiple Disease Prediction System
+
+🩺 Machine learning system to predict multiple diseases like Kidney Disease, Liver Disease, and Parkinson’s Disease based on user health data.  
+
+**Tech Stack:**  
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"> <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> 
+
+📂 **GitHub:** 👇
+
+[![Repo](https://img.shields.io/badge/Repo-Multiple%20Disease%20Prediction-orange?style=plastic&logo=github)](https://github.com/Infant-Joshva/Project_4-Multiple-Disease-Prediction.git)
+
+
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infant-joshva&show_icons=true&locale=en&layout=compact" alt="infant-joshva" /></p>
