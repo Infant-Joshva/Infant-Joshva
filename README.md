@@ -116,7 +116,7 @@ Built with real-world datasets and optimized machine learning pipelines.
 
 <h1></h1>
 
-## 🔥 Final Project – **AdVision360: Brand Exposure Analytics System**
+## 🔥 Final Project – **BrandVision AI: Real-Time Brand Exposure Analytics for Sports Broadcasts**
 
 📺 A full-scale **Computer Vision + Analytics** platform that detects brand logos from cricket broadcast frames, calculates exposure time, boundary visibility, frequency of appearances, and generates automated PDF reports.  
 Also features an integrated **AI Chat Bot** powered by Google Gemini for interactive insights.
