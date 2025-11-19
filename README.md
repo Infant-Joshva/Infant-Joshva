@@ -112,38 +112,23 @@ Built with real-world datasets and optimized machine learning pipelines.
  <img src="https://img.shields.io/badge/Regex-FF6F00?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Emoji-FFD400?style=for-the-badge&logoColor=black"> <img src="https://img.shields.io/badge/Contractions-FF0080?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Joblib-000000?style=for-the-badge&logoColor=white">
 
 📂 **GitHub:** 👇  
+
 [![Repo](https://img.shields.io/badge/Repo-AI%20Echo:%20Sentiment%20Analysis-green?style=plastic&logo=github)](https://github.com/Infant-Joshva/Project_5-AI-Echo_Sentiment-Analysis.git)
 
 <h1></h1>
 
-## 🔥 Final Project – **BrandVision AI: Real-Time Brand Exposure Analytics for Sports Broadcasts**
+### ⚡ Final Project – **BrandVision AI: Real-Time Brand Exposure Analytics for Sports Broadcasts**
 
 📺 A full-scale **Computer Vision + Analytics** platform that detects brand logos from cricket broadcast frames, calculates exposure time, boundary visibility, frequency of appearances, and generates automated PDF reports.  
 Also features an integrated **AI Chat Bot** powered by Google Gemini for interactive insights.
-
----
 
 **🧰 Tech Stack**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/SQLAlchemy-4A7EBB?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/Graph%20Objects-000000?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Boto3-527FFF?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/ReportLab-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"> <img src="https://img.shields.io/badge/Tempfiles-808080?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
 
----
+📂 **GitHub:** 👇  
 
-## 📂 **GitHub Repository**
 [![Repo](https://img.shields.io/badge/Repo-AdVision360%20Analytics-success?style=plastic&logo=github)](https://github.com/Infant-Joshva/Final_Project-AdVision360.git)
-
-
-
----
-
-### 🤖 **AI Chat Layer**
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
-
----
-
-### 📂 GitHub  
-[![Repo](https://img.shields.io/badge/AdVision360-Project-green?style=for-the-badge&logo=github)](https://github.com/Infant-Joshva/Final_Project-AdVision360.git)
-
 
 ---
 
