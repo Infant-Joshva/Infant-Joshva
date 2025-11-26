@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infant-joshva&label=Profile%20views&color=0e75b6&style=flat" alt="infant-joshva" /> </p>
 
 ## 🚀 About Me  
-I'm a passionate learner exploring the **Data Science & Analytics** world turning raw data into meaningful insights and I enjoy working with data, building dashboards, and deploying interactive apps. 
+I’m a Data Science professional skilled in turning raw data into actionable insights. I love exploring datasets, designing dashboards, and building end-to-end data applications. 
 
 <h1></h1>
 
