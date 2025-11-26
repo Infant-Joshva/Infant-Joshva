@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infant-joshva&label=Profile%20views&color=0e75b6&style=flat" alt="infant-joshva" /> </p>
 
 ## 🚀 About Me  
-I’m a Data Science professional skilled in turning raw data into actionable insights. I love exploring datasets, designing dashboards, and building end-to-end data applications. 
+Data Science professional with IIT-M Pravartak certification in Advanced Programming. Passionate about analytics, pattern analysis, building dashboards, and developing interactive applications.
 
 <h1></h1>
 
